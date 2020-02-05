@@ -1,0 +1,1 @@
+<h1>Fooi calculator</h1>
